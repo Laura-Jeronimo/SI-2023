@@ -1,1 +1,1 @@
-# SI-2023
+# Repositório destinado às aulas de Segurança da Informação
